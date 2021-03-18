@@ -1,5 +1,4 @@
 //C++ program to calculate the power of a number using inline function.
- 
  #include<iostream>
  using namespace std;
 
@@ -14,7 +13,7 @@
      return res;
  }
 
-    double display(double x,double y) 
+    double display(double x,double y)                     //display function
   {
 
 	cout<<endl<<"The value of "<<x<<" ^ "<<y<<" is : ";
