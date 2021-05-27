@@ -16,7 +16,6 @@ double getSide()
 {
 	return side;
 }
-public:
    Area()                   //default constructor                
  {
 		length=5;
